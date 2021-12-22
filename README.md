@@ -4,11 +4,16 @@
 
 <p align="center">
   <samp>
-My Description here
+My names is Diego Caraballo. I am full stack developer.
   </samp><br><br>
   <samp>
-Other Description
-   </samp>
+  * 🔭 I’m currently working on <a href="https://softtero.com">SoftTero</a></br>
+  * 🌱 I’m currently learning Scraping, data science, bots and more</br>
+  * 👯 I’m looking to collaborate on innovational projects</br>
+  * 🤔 I’m looking for help with ...</br>
+  * 💬 Ask me about my Job</br>
+  * 📫 How to reach me: diegocaraballo84@gmail.com</br>
+  </samp>
   <br> <br>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=DiegoCaraballo" alt="DiegoCaraballo" data-canonical-src="https://komarev.com/ghpvc/?username=DiegoCaraballo" style="max-width:100%;">
