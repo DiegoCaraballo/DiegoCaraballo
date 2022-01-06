@@ -14,7 +14,77 @@ My names is Diego Caraballo. I am full stack developer.
   * 💬 Ask me about my Job</br>
   * 📫 How to reach me: diegocaraballo84@gmail.com</br>
   </samp>
-  <br> <br>
+  <br> 
+
+<h2 align="center"><a id="user-content---who-am-i" class="anchor" aria-hidden="true" href="#--who-am-i"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"></g-emoji> Experience</h2>
+<br>
+<hr><br>
+<p align="center">
+  <spam>
+    <strong>Full Stack Developer</strong></spam><br>
+    Asociación Médica de San José<br>
+    August 2017 - present<br><br>
+    * Engineered modern applications with .NET (C#, VB), Angular, SQL Server, and No SQL.</br>
+    * Built innovative microservices and Web Services (incl. SOAP/REST/XML).</br>
+    * Efficiently deployed and integrated software engineered by team and updated integration/deployment scripts to improve continuous integration practices.</br>
+    * Other Technology Stack: ASP.NET, ADO.NET, Entity Framework, GIT, MySql, MongoDB, HTML, CSS, Bootstrap, Winform<br><br>
+  </spam>
+</p>
+<hr>
+<br>
+
+<p align="center">
+  <spam>
+    <strong>Co-Founder | Full Stack Developer</strong></spam><br>
+    SoftTero<br>
+    October 2021 - present<br><br>
+    * Engineered modern applications with .NET, Java, Ionic, Angular, SQL Server, and No SQL.</br>
+    * Built innovative microservices and Web Services (incl. SOAP/REST/XML).</br>
+    * Efficiently deployed and integrated software engineered by team and updated integration/deployment scripts to improve continuous integration practices.</br></br>
+  </spam>
+</p>
+<hr>
+<br>
+
+<p align="center">
+  <spam>
+    <strong>Freelance Software Developer</strong></spam><br>
+    Freelancer.com<br>
+    June 2016<br><br>
+    * Some scripts in python.</br>
+    * Winform C# and SqlServer.</br>
+  </spam>
+</p>
+<hr>
+<br>
+
+<p align="center">
+  <spam>
+    <strong>Software testing</strong></spam><br>
+    Asociación Médica de San José<br>
+    April 2015 - August 2017<br><br>
+    * Reviewing software requirements and preparing test scenarios.<br>
+    * Executing tests on software usability.<br>
+    * Preparing reports on all aspects related to the software testing carried out and reporting to the design team.<br>
+    * Interacting with clients to understand product requirements.<br>
+    * Participating in design reviews and providing input on requirements, product design, and potential problems.
+  </spam>
+</p>
+<hr>
+<br>
+
+<p align="center">
+  <spam>
+    <strong>Personal Blog</strong></spam><br>
+    Mi Diario Python | <a href="http://www.pythondiario.com">www.pythondiario.com</a><br>
+    April 2013 - Present<br><br>
+    * Different post and tutorials about Python.</br>
+    * Tutorials about: Django, Flask, Scraping, Automation, python modules and more.</br>
+  </spam>
+</p>
+<hr>
+<br>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=DiegoCaraballo" alt="DiegoCaraballo" data-canonical-src="https://komarev.com/ghpvc/?username=DiegoCaraballo" style="max-width:100%;">
 </p>
