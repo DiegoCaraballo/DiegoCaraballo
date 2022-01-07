@@ -77,6 +77,7 @@ My names is Diego Caraballo. I am full stack developer.
     <strong>Personal Blog</strong></spam><br>
     Mi Diario Python | <a href="http://www.pythondiario.com">www.pythondiario.com</a><br>
     April 2013 - Present<br><br>
+    * 60,000 unique monthly visits.<br>
     * Different post and tutorials about Python.</br>
     * Tutorials about: Django, Flask, Scraping, Automation, python modules and more.</br>
   </spam>
