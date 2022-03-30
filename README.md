@@ -24,7 +24,7 @@ My names is <strong>Diego Caraballo</strong>. I am full stack developer from Uru
     * Engineered modern applications with .NET (C#, VB), Angular, SQL Server, and No SQL.</br>
     * Built innovative microservices and Web Services (incl. SOAP/REST/XML).</br>
     * Efficiently deployed and integrated software engineered by team and updated integration/deployment scripts to improve continuous integration practices.</br>
-    * Other Technology Stack: ASP.NET, ADO.NET, Entity Framework, GIT, MySql, MongoDB, HTML, CSS, Bootstrap, Winform<br><br>
+    * Other Technology Stack: ASP.NET, ADO.NET, Entity Framework, GIT, MySql, MongoDB, HTML, CSS, Bootstrap, Winform, Python<br><br>
   </spam>
 </p>
 <hr>
